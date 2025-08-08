@@ -26,6 +26,7 @@ Gradio web interface for real-time predictions.
 Project structure
 
 .
+
 ├── ticket_classifier_model/   # Saved model & tokenizer
 
 ├── app.py                     # Main Gradio app
