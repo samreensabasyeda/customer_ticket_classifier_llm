@@ -27,8 +27,11 @@ Project structure
 
 .
 ├── ticket_classifier_model/   # Saved model & tokenizer
+
 ├── app.py                     # Main Gradio app
+
 ├── requirements.txt           # Project dependencies
+
 ├── Dockerfile                 # Containerization file
 └── README.md                  # Project documentation
 
