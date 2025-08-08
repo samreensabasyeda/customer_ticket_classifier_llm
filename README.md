@@ -33,6 +33,7 @@ Project structure
 ├── requirements.txt           # Project dependencies
 
 ├── Dockerfile                 # Containerization file
+
 └── README.md                  # Project documentation
 
 
