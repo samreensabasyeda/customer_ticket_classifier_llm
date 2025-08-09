@@ -3,8 +3,6 @@ import torch
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
 # Load model & tokenizer from the local directory
-model = AutoModelForSequenceClassification.from_pretrained("ticket_classifier_model")
-tokenizer = AutoTokenizer.from_pretrained("ticket_classifier_model")
 model = AutoModelForSequenceClassification.from_pretrained("samreenss2414/ticket-classifier-model")
 tokenizer = AutoTokenizer.from_pretrained("samreenss2414/ticket-classifier-model")
 
